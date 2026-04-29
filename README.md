@@ -1,6 +1,6 @@
 # Anucha Portfolio
 
-A portfolio and resume website for Anucha Srilakaew, built with Next.js, TypeScript, next-themes, Framer Motion, and Tailwind CSS.
+Portfolio and project archive for Anucha Srilakaew, built with Next.js, TypeScript, next-themes, Framer Motion, and Tailwind CSS.
 
 ## Getting Started
 
@@ -22,7 +22,7 @@ Open the local URL printed by Next.js. This workspace currently uses `http://loc
 
 - `lib/i18n.tsx` contains bilingual profile, experience, professional skills, projects, AI, roadmap, education, and language data.
 - `components/sections/*` contains the page sections.
-- `components/ui/*` contains reusable UI pieces such as theme toggle, section header, and roadmap items.
+- `components/ui/*` contains reusable UI pieces such as theme toggle, language toggle, profile photo modal, particle background, section header, and roadmap items.
 - `app/projects/page.tsx` contains the My Project List page.
 - `app/globals.css` contains the design tokens and responsive layout styles.
 
